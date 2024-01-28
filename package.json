@@ -1,0 +1,18 @@
+{
+  "name": "@manaten/edg2gif",
+  "version": "0.0.1",
+  "description": "nodejs edg file to gif convert library powered by heriet/hxPixel",
+  "main": "bin/index.js",
+  "bin": {
+    "edg2gif": "bin/edg2gif"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "docker-compose up builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manaten<manaten@manaten.net>",
+  "license": "MIT"
+}

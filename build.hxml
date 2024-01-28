@@ -1,0 +1,8 @@
+-lib hxnodejs
+
+-cp src
+-cp ./lib/hxPixel
+
+-js bin/index.js
+
+-main net.manaten.edg2gif.Edg2Gif

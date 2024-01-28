@@ -1,0 +1,3 @@
+[submodule "lib/hxPixel"]
+	path = lib/hxPixel
+	url = git@github.com:heriet/hxPixel.git
